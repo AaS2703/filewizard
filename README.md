@@ -94,4 +94,5 @@ Edit frontend/index.html and set the apiUrl variable to your deployed API Gatewa
 Upload index.html to your S3 website bucket.<br><br>
 
 <h3>Authors</h3>
-Abhigyan Srivastava <a href="https://github.com/AbhigyanSr">@AbhigyanSr</a>
+Aayushi Shreshth <a href="https://github.com/AaS2703">@AaS2703</a>
+
